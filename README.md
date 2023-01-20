@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bali</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I’m currently working on [WeCare Project](https://github.com/ahmedbali19/WeCareFront)
+- 🔭 I’m currently working with [Redspher](https://redspher.com/en/)
 
-- 🌱 I’m currently learning **Angular , React , Vue**
+- 🌱 I’m currently learning **Test automation with Nightwatch.js**
 
 - 💬 Ask me about **Data Science , Java , Python**
 
