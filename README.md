@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bali</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+<h3 align="center">A passionate tester based in France</h3>
 
 - 🔭 I’m currently working with [Redspher](https://redspher.com/en/)
 
